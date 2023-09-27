@@ -7,6 +7,8 @@ public class GithubDemo {
 		
 		
 		System.out.println("My First Commit");
+		System.out.println("Github Commit");
+		
 	}
 
 }
